@@ -1,0 +1,13 @@
+C:\Users\Kali-Zoidberg\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\bin\Debug\CAUCIWebsiteGeneratoir.exe.config
+C:\Users\Kali-Zoidberg\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\bin\Debug\CAUCIWebsiteGeneratoir.exe
+C:\Users\Kali-Zoidberg\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\bin\Debug\CAUCIWebsiteGeneratoir.pdb
+C:\Users\Kali-Zoidberg\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\obj\Debug\CAUCIWebsiteGeneratoir.csproj.CoreCompileInputs.cache
+C:\Users\Kali-Zoidberg\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\obj\Debug\CAUCIWebsiteGeneratoir.exe
+C:\Users\Kali-Zoidberg\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\obj\Debug\CAUCIWebsiteGeneratoir.pdb
+C:\Users\Kali-Zoidberg\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\obj\Debug\CAUCIWebsiteGeneratoir.csprojAssemblyReference.cache
+C:\Users\Chow\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\bin\Debug\CAUCIWebsiteGeneratoir.exe.config
+C:\Users\Chow\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\obj\Debug\CAUCIWebsiteGeneratoir.exe
+C:\Users\Chow\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\obj\Debug\CAUCIWebsiteGeneratoir.pdb
+C:\Users\Chow\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\bin\Debug\CAUCIWebsiteGeneratoir.exe
+C:\Users\Chow\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\bin\Debug\CAUCIWebsiteGeneratoir.pdb
+C:\Users\Chow\source\repos\CAUCIWebsiteGeneratoir\CAUCIWebsiteGeneratoir\obj\Debug\CAUCIWebsiteGeneratoir.csprojResolveAssemblyReference.cache
